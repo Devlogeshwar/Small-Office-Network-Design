@@ -104,3 +104,18 @@ Learning Outcomes
 * Troubleshooting network connectivity.
 * Understanding basic enterprise network architecture.
 
+---
+
+## Project Screenshots
+
+### 1. Network Topology
+![Network Topology](Screenshots/Topology.png)
+
+### 2. VLAN Configuration
+![VLAN Configuration](Screenshots/VLAN-Configurations.png)
+
+### 3. NAT Translation
+![NAT Translation](Screenshots/NAT%20Translations.png)
+
+### 4. ACL Security
+![ACL Security](Screenshots/ACL%20Security.png)
